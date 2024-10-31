@@ -24,13 +24,11 @@ h1, h2 {
 
 .container {
   width: 100%;
-  /* max-width: 920px;
-  border-radius: 8px; */
   display: grid;
   grid-auto-rows: 1fr;
 }
 
-.container div {
+.container>div {
   padding: 48px;
 }
 
