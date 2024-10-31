@@ -28,7 +28,7 @@ h1, h2 {
   grid-auto-rows: 1fr;
 }
 
-.container div {
+.container>div {
   padding: 48px;
 }
 
