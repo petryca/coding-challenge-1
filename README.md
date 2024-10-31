@@ -1,1 +1,1 @@
-# Coding Challenge 1 – Step 3
+# Coding Challenge 1 – 3/5
