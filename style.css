@@ -71,6 +71,7 @@ a {
   padding: 14px 28px;
   border-radius: 100px;
   white-space: nowrap;
+  transition: all 0.3s;
 }
 
 a:hover {
